@@ -38,13 +38,13 @@ OPENAI_API_KEY=your_openai_api_key
 ### 3. Install Dependencies
 
 Run the following command to install all required Python dependencies:
-``sh
+``
 pip install -r requirements.txt
-``sh
+``
 
 ### 4. Run the Application
 
 To start the application, execute the following command in the project root directory:
-``sh
+``
 streamlit run email_bot_generator.py
-``sh
+``
